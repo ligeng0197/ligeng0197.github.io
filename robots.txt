@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ligeng0197.github.io/sitemap.xml
