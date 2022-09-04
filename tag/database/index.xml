@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database | Academic</title>
+    <link>https://ligeng0197.github.io/tag/database/</link>
+      <atom:link href="https://ligeng0197.github.io/tag/database/index.xml" rel="self" type="application/rss+xml" />
+    <description>Database</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ligeng0197.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Database</title>
+      <link>https://ligeng0197.github.io/tag/database/</link>
+    </image>
+    
+    <item>
+      <title>AI4DB: Quickly responding mechanism of validating knobs efficacy for GaussDB.</title>
+      <link>https://ligeng0197.github.io/project/ai4db/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://ligeng0197.github.io/project/ai4db/</guid>
+      <description>&lt;p&gt;Supervisor: Hongzhi Wang, Professor in Faculty of Computing, HIT&lt;br&gt;
+Exploiting meta-learning mechanism to enhance model generalization with dynamically changing workload of database, with the aim of decreasing model retraining cost and improving overall knobs evaluation performance.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

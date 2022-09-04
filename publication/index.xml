@@ -5,7 +5,7 @@
     <link>https://ligeng0197.github.io/publication/</link>
       <atom:link href="https://ligeng0197.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Jul 2022 15:01:07 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Jul 2022 14:57:22 +0000</lastBuildDate>
     <image>
       <url>https://ligeng0197.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,30 +13,19 @@
     </image>
     
     <item>
-      <title>what ever</title>
-      <link>https://ligeng0197.github.io/publication/what-ever/</link>
-      <pubDate>Thu, 14 Jul 2022 15:01:07 +0000</pubDate>
-      <guid>https://ligeng0197.github.io/publication/what-ever/</guid>
+      <title>EEML: Ensemble Embedded Meta-learning</title>
+      <link>https://ligeng0197.github.io/publication/eeml/</link>
+      <pubDate>Thu, 14 Jul 2022 14:57:22 +0000</pubDate>
+      <guid>https://ligeng0197.github.io/publication/eeml/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>EEML: Ensemble Embedded Meta-learning</title>
-      <link>https://ligeng0197.github.io/publication/example/</link>
+      <title>FL-AGCNS: Federated Learning Framework for Automatic Graph Convolutional Network Search</title>
+      <link>https://ligeng0197.github.io/publication/flagcns/</link>
       <pubDate>Thu, 14 Jul 2022 14:57:22 +0000</pubDate>
-      <guid>https://ligeng0197.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://ligeng0197.github.io/publication/flagcns/</guid>
+      <description></description>
     </item>
     
   </channel>
