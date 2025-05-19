@@ -9,6 +9,8 @@ Beyond research, I enjoy playing badminton and exploring the I Ching (周易).
 <!-- - 📺 Demo: https://maverick.canhtran.me -->
 - ❤️ Github: [ligeng0197](https://github.com/ligeng0197)
 - 🎓 Google Scholar: [Geng Li](https://scholar.google.com/citations?user=0ufMJz4AAAAJ&hl=en)
+- ✉️ Email: ligeng@stu.pku.edu.cn
+
 
 
 <!-- Thanks in advance -->
