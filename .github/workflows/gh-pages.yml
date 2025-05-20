@@ -3,27 +3,31 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - gh-pages  # 或者 master
+      - gh-pages
 
 jobs:
-  build-deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout source
-        uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        submodules: true
+        fetch-depth: 0
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '0.147.2'  # 替换为你项目使用的版本
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.147.2'
+        extended: true
 
-      - name: Build site
-        run: hugo --minify
+    - name: Build
+      run: hugo --minify
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          publish_branch: gh-pages-contents
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
+        publish_branch: gh-pages-contents
