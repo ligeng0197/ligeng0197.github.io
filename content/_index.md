@@ -2,9 +2,7 @@
 
 <img class="avatar" src="images/avatar.jpg" alt="avatar">
 
-I am a second-year Ph.D. student at the Wangxuan Institute of Computer Technology, Peking University (PKU), advised by [Prof. Yuxin Peng](https://scholar.google.com/citations?hl=zh-CN&user=mFsXPNYAAAAJ&view_op=list_works&sortby=pubdate). My research focuses on Multimodal Large Language Models (MLLMs/LMMs), with a particular interest in fine-grained perception ([CVPR 2025 Highlight](publications/dyfo/) / [ICLR 2025](http://localhost:1313/publications/finedefics/)). I am also broadly interested in multimodal reasoning, LLM-based tool use, and embodied agents. Prior to joining PKU, I received both my Bachelor’s and Master’s degrees from Harbin Institute of Technology (HIT), where I worked with [Prof. Hongzhi Wang](https://homepage.hit.edu.cn/wang) on AutoML/Meta-learning. In the fall of 2020, I join a semester exchange program at Johns Hopkins University (JHU, at Maryland), thanks to the Honor School of HIT. 
-
-Beyond research, I enjoy playing badminton and exploring the I Ching (周易).
+I am a Ph.D. student in the 2023 cohort at the Wangxuan Institute of Computer Technology, Peking University, advised by [Prof. Yuxin Peng](https://scholar.google.com/citations?hl=zh-CN&user=mFsXPNYAAAAJ&view_op=list_works&sortby=pubdate). My research focuses on fine-grained perception and visual reasoning in multimodal large language models. As a first author, I have published several papers at top-tier international conferences, including CVPR, ICML, and ECCV. My representative works include [DyFo](publications/dyfo/), [BVS](publications/bvs/), and [DiCoBench](publications/dicobench/). DyFo was selected as a CVPR 2025 Highlight paper, with a Highlight selection rate of only 13.5%. My work has received dedicated coverage from several academic platforms, including VALSE, CVer, and Jishi Community. I also received the VALSE 2025 Popular Poster Award, ranking among the top 11 out of 398 posters.
 
 <!-- - 📺 Demo: https://maverick.canhtran.me -->
 - ❤️ Github: [ligeng0197](https://github.com/ligeng0197)
